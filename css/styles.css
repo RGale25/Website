@@ -45,8 +45,10 @@ body {
   font-weight: lighter;
 }
 
-.technical-trait-row {
-  padding-bottom: 50px;
+@media (min-width: 1020px) {
+  .technical-trait-row {
+    padding-bottom: 50px;
+  }
 }
 
 .personal-trait-row {
@@ -67,7 +69,9 @@ body {
   color: #0091ff;
 }
 
-.trait-name {padding-top: 30px;}
+.trait-name {
+  padding-top: 30px;
+}
 
 
 .social-container {
