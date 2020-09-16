@@ -45,7 +45,7 @@ body {
   font-weight: lighter;
 }
 
-@media (min-width: 1020px) {
+@media (min-width: 1020px;){
   .technical-trait-row {
     padding-bottom: 50px;
   }
@@ -69,9 +69,7 @@ body {
   color: #0091ff;
 }
 
-.trait-name {
-  padding-top: 30px;
-}
+.trait-name {padding-top: 30px;}
 
 
 .social-container {
@@ -94,4 +92,32 @@ body {
 
 .copyright-message {
   padding-bottom: 25px;
+}
+
+
+.date-attended, .grade {
+  display: inline;
+  padding: 20px;
+}
+
+.heading-row {
+  justify-content: center;
+  padding: 5%;
+}
+
+.heading-row h1 {
+  font-weight: bold;
+}
+
+#education {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.education-container {
+  justify-content: center;
+}
+
+.center {
+  justify-content: center;
 }
