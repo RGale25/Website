@@ -128,26 +128,30 @@ body {
   justify-content: center;
 }
 
-#skills {
+#technologies {
   padding: 3%;
 }
-.skill-row {
+.technology-row {
   padding: 1% 0;
 }
 
-.skill-row {
+.technology-row {
   font-weight: 500;
   font-style: italic;
   font-family: Ubuntu;
   color: #8c8d8f;
 }
 
-.skill-row i {
+.technology-row i {
   color:#44d7b6;
   font-size: 2rem;
 }
 
-.skill-row i:hover {
+.technology-row img {
+  color:#44d7b6;
+}
+
+.technology-row i:hover {
   color: #0091ff;
 }
 
@@ -162,7 +166,7 @@ body {
   z-index: 10;
 }
 
-.skill-content{
+.technology-content{
   font-weight: 500;
   font-style: italic;
   font-family: Ubuntu;
