@@ -126,6 +126,9 @@ body {
   justify-content: center;
 }
 
+#skills {
+  padding: 3%;
+}
 .skill-row {
   padding: 1% 0;
 }
