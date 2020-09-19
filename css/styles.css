@@ -112,10 +112,12 @@ body {
 }
 
 #education {
-  padding-top: 5%;
-  padding-bottom: 5%;
+  padding-top: 60px;
 }
 
+.school-container {
+  padding: 20px 0;
+}
 .education-container {
   justify-content: center;
 }
