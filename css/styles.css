@@ -174,3 +174,7 @@ body {
   font-family: Ubuntu;
   color: #8c8d8f;
 }
+
+.carousel-inner img {
+  margin: auto;
+}
