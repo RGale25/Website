@@ -178,3 +178,8 @@ body {
 .carousel-inner img {
   margin: auto;
 }
+
+.college p {
+  padding-left: 5px;
+  padding-right: 5px;
+}
