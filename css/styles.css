@@ -188,9 +188,13 @@ p{
 
 .employment {
   padding: 2% 0;
-  
+
 }
 .college p {
   padding-left: 5px;
   padding-right: 5px;
+}
+
+.section-break {
+  width: 70%;
 }
