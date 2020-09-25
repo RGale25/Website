@@ -97,9 +97,9 @@ body {
 }
 
 
-.date-attended, .grade {
+.date-attended, .grade, .role {
   display: inline;
-  padding: 20px;
+  padding: 10px;
 }
 
 .heading-row {
@@ -123,7 +123,7 @@ body {
 }
 
 .info-col {
-  padding: 3% 0;
+  padding: 10px 0;
 }
 
 .center {
@@ -177,4 +177,15 @@ body {
 
 .carousel-inner img {
   margin: auto;
+}
+
+p{
+    font-weight: 500;
+    font-style: italic;
+    font-family: Ubuntu;
+    color: #8c8d8f;
+}
+
+.employment {
+  padding: 2% 0;
 }
