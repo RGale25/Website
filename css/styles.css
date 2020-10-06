@@ -169,11 +169,13 @@ body {
   padding: 0 10px;
 }
 
-
-
 .date-attended, .grade, .role {
   display: inline;
   padding: 10px;
+}
+
+.date-attended {
+  padding-left: 0;
 }
 
 .heading-row {
@@ -185,8 +187,10 @@ body {
   font-weight: bold;
 }
 
+
 #education {
   padding-top: 60px;
+  text-align: left;
 }
 
 .school-container {
@@ -198,6 +202,10 @@ body {
 
 .info-col {
   padding: 10px 0;
+}
+
+.module-col ul{
+  padding-left: 20px;
 }
 
 .center {
@@ -263,10 +271,6 @@ body {
 .employment {
   padding: 2% 0;
 
-}
-.college p {
-  padding-left: 5px;
-  padding-right: 5px;
 }
 
 .section-break {
