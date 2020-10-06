@@ -21,6 +21,12 @@ body {
   position: absolute;
 }
 
+.contact-banner {
+  height: 340px;
+  width: 100%;
+  background-image: linear-gradient(to left,#0091ff,#44d7b6);
+}
+
 .primary-btn {
   color: #44d7b6;
   border-color: #44d7b6;
@@ -28,19 +34,17 @@ body {
 
 .primary-btn:hover {
   color: white;
-  border-color: #0091ff;
-  background-color: #0091ff;
+  background-color: #44d7b6;
 }
 
 .secondary-btn {
   color: white;
-  border-color: #0091ff;
-  background-color: #0091ff;
+  border-color: #44d7b6;
+  background-color: #44d7b6;
 }
 
 .secondary-btn:hover {
   color: #44d7b6;
-  border-color: #44d7b6;
   background-color: white;
 }
 
@@ -95,6 +99,10 @@ body {
 
 .trait-box {
   padding-bottom: 50px;
+}
+
+.trait-box hr {
+  width: 80%;
 }
 
 
