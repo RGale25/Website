@@ -22,9 +22,21 @@ body {
 }
 
 .contact-banner {
-  height: 340px;
+  height: 350px;
   width: 100%;
   background-image: linear-gradient(to left,#0091ff,#44d7b6);
+  font-size: 40px;
+  color: white;
+}
+
+.contact-banner i{
+  font-size: 60px;
+  padding: 40px;
+}
+
+.contact-banner a{
+  color: white;
+  font-size: 1.5rem;
 }
 
 .primary-btn {
@@ -58,7 +70,7 @@ body {
   font-weight: bold;
 }
 
-#title hr {
+.small-hr {
   width: 10%;
   border-color: black;
   border-width: 3px;
@@ -86,6 +98,11 @@ body {
   font-size: 1.2rem;
   font-weight: lighter;
 }
+
+#about h2 {
+  padding-bottom: 30px;
+}
+
 
 @media (min-width: 1020px;){
   .technical-trait-row {
@@ -223,7 +240,7 @@ body {
   margin: auto;
 }
 
-p{
+#about p{
     font-weight: 500;
     font-style: italic;
     font-family: Ubuntu;
