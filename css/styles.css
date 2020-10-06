@@ -11,6 +11,7 @@ body {
 
 #navigation-bar a {
   color: black;
+  scroll-behavior: smooth;
 }
 
 
@@ -22,7 +23,6 @@ body {
   height: 340px;
   width: 100%;
   background-image: linear-gradient(to left,#0091ff,#44d7b6);
-  position: absolute;
 }
 
 .contact-banner {
