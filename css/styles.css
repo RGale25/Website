@@ -272,11 +272,10 @@ body {
     color: #8c8d8f;
 }
 
+#work-experience {
+  text-align: left;
+}
 .employment {
   padding: 2% 0;
 
-}
-
-.section-break {
-  width: 70%;
 }
