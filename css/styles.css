@@ -11,7 +11,7 @@ body {
 
 
 .title-container {
-  padding: 170px 10% 15%;
+  padding: 170px 10% 0;
 }
 
 .color-banner {
@@ -24,7 +24,6 @@ body {
 .primary-btn {
   color: #44d7b6;
   border-color: #44d7b6;
-  border-radius: 50%;
 }
 
 .primary-btn:hover {
@@ -46,7 +45,7 @@ body {
 }
 
 .trait-container {
-  padding: 10% 10% 7%;
+  padding: 3% 10% 7%;
 }
 
 #title h1 {
