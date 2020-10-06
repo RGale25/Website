@@ -9,6 +9,10 @@ body {
   width:400px;
 }
 
+#navigation-bar a {
+  color: black;
+}
+
 
 .title-container {
   padding: 170px 10% 0;
@@ -94,8 +98,12 @@ body {
   padding: 0 auto;
 }
 
+.navbar-brand {
+  padding-left: 20px;
+}
+
 .nav-link {
-  font-size: 1.2rem;
+  font-size: 1.2rem
   font-weight: lighter;
 }
 
@@ -132,7 +140,9 @@ body {
   color: #0091ff;
 }
 
-.trait-name {padding-top: 30px;}
+.trait-name {
+  padding-top: 30px;
+}
 
 
 .social-container {
@@ -147,10 +157,6 @@ body {
 .link {
   padding: 0 10px;
   font-size: 20px;
-}
-
-.link-icon {
-
 }
 
 .copyright-message {
