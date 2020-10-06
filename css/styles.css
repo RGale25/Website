@@ -193,6 +193,10 @@ body {
   text-align: left;
 }
 
+.colored-section {
+  background-color: #f9f9f9;
+}
+
 .school-container {
   padding: 20px 0;
 }
