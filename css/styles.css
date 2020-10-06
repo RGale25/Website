@@ -11,7 +11,14 @@ body {
 
 
 .title-container {
-  padding: 15% 10%;
+  padding: 170px 10% 15%;
+}
+
+#color-banner {
+  height: 340px;
+  width: 100%;
+  background-image: linear-gradient(to right,#0091ff,#44d7b6);
+  position: absolute;
 }
 
 .trait-container {
