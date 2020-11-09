@@ -235,8 +235,20 @@ body {
   font-size: 2rem;
 }
 
+
+.icon-visualbasic {
+  background-image: url('../images/icons/icon-visualbasic.svg');
+  background-color: white;
+  background-repeat: no-repeat;
+  height: 32px;
+  width: 32px;
+  background-position: center;
+  background-size: cover;
+}
+
 .technology-row img {
-  color:#44d7b6;
+  width: 32px;
+  height: 32px;
 }
 
 .technology-row i:hover {
