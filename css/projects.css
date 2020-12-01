@@ -1,0 +1,32 @@
+.project{
+  background-color:#f7f7f9;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.project-content {
+  padding : 10px;
+  text-align: left;
+}
+
+.project-links {
+  text-align: right;
+  padding: 0 10px 10px 0;
+}
+
+hr {
+  border-width: 2px;
+  border-radius: 4px;
+}
+
+.project-title {
+
+}
+
+.project-description {
+  margin:0;
+}
+
+.color-banner {
+  height:170px;
+}
