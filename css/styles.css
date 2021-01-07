@@ -296,6 +296,7 @@ body {
 }
 
 #hobbies {
+  padding-bottom: 50px;
 }
 
 .hobby {
@@ -304,7 +305,7 @@ body {
 }
 
 .hobby-icon {
-  font-size:80px;
+  font-size:50px;
   padding:20px;
 }
 
