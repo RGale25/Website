@@ -28,21 +28,21 @@ body {
 }
 
 .contact-banner {
-  height: 350px;
+  height: 210px;
   width: 100%;
   background-image: linear-gradient(to left,#0091ff,#44d7b6);
-  font-size: 40px;
+  font-size: 20px;
   color: white;
 }
 
 .contact-banner i{
-  font-size: 60px;
-  padding: 40px;
+  font-size: 40px;
+  padding: 20px;
 }
 
 .contact-banner a{
   color: white;
-  font-size: 1.5rem;
+  font-size: 20px;
 }
 
 .primary-btn {
@@ -81,8 +81,6 @@ body {
   border-color: black;
   border-width: 3px;
 }
-
-
 
 .about-icon {
   font-size: 3rem;
@@ -289,5 +287,28 @@ body {
 }
 .employment {
   padding: 2% 0;
+}
 
+.icon-svg {
+  width: 30px;
+  height: 30px;
+  object-fit: contain;
+}
+
+#hobbies {
+  padding-bottom: 50px;
+}
+
+.hobby {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.hobby-icon {
+  font-size:50px;
+  padding:20px;
+}
+
+.hobby-description {
+  display:inline;
 }
